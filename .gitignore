@@ -1,2 +1,4 @@
 /agro
 .env
+data/*.csv
+.ipynb_checkpoints/
